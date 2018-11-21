@@ -1,2 +1,1 @@
-#REACTFilteredSearchApplication    
-This is a FILTERED SEARCH REACT APPLICATION
+REACTFilteredSearchApplication    This is a FILTERED SEARCH REACT APPLICATION
